@@ -8,7 +8,7 @@ import java.util.List;
  * Runtime: 30 ms, faster than 93.65% of Java online submissions for 3Sum.
  * Memory Usage: 49.3 MB, less than 39.47% of Java online submissions for 3Sum.
  */
-public class LC0015ThreeSum {
+public class LC0015Threesum {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> lists = new ArrayList<>();
 
